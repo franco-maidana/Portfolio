@@ -10,8 +10,8 @@ const Curriculum = () => {
           <li>Desarrollo Web - CoderHouse - Febrero 2023 / Abril 2023</li>
           <li>JavaScript - CoderHouse - Mayo 2023 / Julio 2023</li>
           <li>React js - CoderHouse - Julio 2023 / Septiembre 2023</li>
-          <li>Programacion Backend - CoderHouse - Nobiembre 2023 / Mayo 2024</li>
-          <li>Master En React  - Udemy - Junio 2024 - Actualidad</li>
+          <li>Programacion Backend - CoderHouse - Noviembre 2023 / Mayo 2024</li>
+          <li>Master En React  - Udemy - Junio 2024 - Agosto 2024</li>
         </ul>
       </section>
       <section>
@@ -19,6 +19,7 @@ const Curriculum = () => {
         <div className='Habilidades'>
         <ul>
           <li>HTML & CSS</li>
+          <li>SASS</li>
           <li>JavaScript</li>
           <li>React</li>
         </ul>
